@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geolocation authenticator</string>
+    <string name="permission_required_toast"/>
+    <string name="location_permission_denied"/>
+    <string name="permission_rationale_location"/>
+    <string name="splash_logo_description">geolocation auth logo</string>
+</resources>
